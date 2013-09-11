@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SeWartingTreelistview001.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TreeListViewDemo/build/exploded-bundles/SeWartingTreelistview001.aar/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/TreeListViewDemo/build/exploded-bundles/SeWartingTreelistview001.aar/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
